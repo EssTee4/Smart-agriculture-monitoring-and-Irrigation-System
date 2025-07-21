@@ -1,1 +1,0 @@
-# Smart-agriculture-monitoring-and-Irrigation-System
